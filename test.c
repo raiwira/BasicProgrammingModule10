@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main () {
-    printf("hello twin");
-
+    printf("a : goodbye twin");
+    printf("b : goodbye twan");
 
     return 0;
 }
