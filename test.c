@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main () {
-    printf("hello twin");
+    printf("a : hello twin");
+    printf("b : hello twan");
+
 
 
     return 0;
